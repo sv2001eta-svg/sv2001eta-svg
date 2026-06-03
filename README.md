@@ -40,11 +40,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sv2001eta-svg&show_icons=true&theme=radical&hide_border=false&count_private=true)
+![GitHub commits](https://img.shields.io/github/commit-activity/m/sv2001eta-svg/student_PPK?color=green&label=Commits)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sv2001eta-svg&layout=compact&theme=radical&hide_border=false)
+![GitHub followers](https://img.shields.io/github/followers/sv2001eta-svg?style=social)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sv2001eta-svg&theme=radical&hide_border=false)
+![GitHub stars](https://img.shields.io/github/stars/sv2001eta-svg/student_PPK?style=social)
 
 </div>
 
