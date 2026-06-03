@@ -40,9 +40,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sv2001eta-svg&show_icons=true&theme=radical&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sv2001eta-svg&show_icons=true&theme=radical&hide_border=false&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sv2001eta-svg&layout=compact&theme=radical&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sv2001eta-svg&theme=radical&hide_border=false)
 
 </div>
 
